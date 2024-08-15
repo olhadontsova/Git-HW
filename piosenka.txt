@@ -4,10 +4,7 @@ refren1.txt
 
 zwrotka-2.txt
 
-Pięknych dziewcząt jest niemało,
-Lecz najwięcej w Ukrainie,
-Tam me serce pozostało,
-Przy kochanej mej dziewczynie. Hej, hej…
+refren2.txt
 
 Ona biedna tam została,
 Przepióreczka moja mała,
