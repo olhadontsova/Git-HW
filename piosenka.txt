@@ -1,9 +1,6 @@
 zwrotka-1.txt
 
-Hej, hej, hej sokoły
-Omijajcie góry, lasy, doły,
-Dzwoń, dzwoń, dzwoń dzwoneczku,
-Mój stepowy skowroneczku,
+refren1.txt
 
 Hej, hej, hej sokoły
 Omijajcie góry, lasy, doły,
