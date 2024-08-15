@@ -2,10 +2,7 @@ zwrotka-1.txt
 
 refren1.txt
 
-Hej, hej, hej sokoły
-Omijajcie góry, lasy, doły,
-Dzwoń, dzwoń, dzwoń dzwoneczku
-Mój stepowy dzwoń, dzwoń, dzwoń! 
+zwrotka-2.txt
 
 Pięknych dziewcząt jest niemało,
 Lecz najwięcej w Ukrainie,
